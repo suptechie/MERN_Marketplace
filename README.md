@@ -24,12 +24,12 @@ An online marketplace application with seller accounts, product search and sugge
 ---- 
 ### More applications built using this stack
 
-* [MERN Skeleton](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Social](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Classroom](https://github.com/shamahoque/mern-classroom)
-* [MERN Expense Tracker](https://github.com/shamahoque/mern-expense-tracker)
-* [MERN Mediastream](https://github.com/shamahoque/mern-mediastream/tree/second-edition)
-* [MERN VR Game](https://github.com/shamahoque/mern-vrgame/tree/second-edition)
+* [MERN Skeleton](https://github.com/suptechie/mern-social/tree/second-edition)
+* [MERN Social](https://github.com/suptechie/mern-social/tree/second-edition)
+* [MERN Classroom](https://github.com/suptechie/mern-classroom)
+* [MERN Expense Tracker](https://github.com/suptechie/mern-expense-tracker)
+* [MERN Mediastream](https://github.com/suptechie/mern-mediastream/tree/second-edition)
+* [MERN VR Game](https://github.com/suptechie/mern-vrgame/tree/second-edition)
 
 Learn more at [mernbook.com](http://www.mernbook.com/)
 
