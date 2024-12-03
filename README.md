@@ -24,7 +24,7 @@ An online marketplace application with seller accounts, product search and sugge
 ---- 
 ### More applications built using this stack
 
-* [MERN Skeleton](https://github.com/suptechie/mern-social/tree/second-edition)
+* [MERN Skeleton](https://github.com/suptechie/mern-skeleton/tree/second-edition)
 * [MERN Social](https://github.com/suptechie/mern-social/tree/second-edition)
 * [MERN Classroom](https://github.com/suptechie/mern-classroom)
 * [MERN Expense Tracker](https://github.com/suptechie/mern-expense-tracker)
